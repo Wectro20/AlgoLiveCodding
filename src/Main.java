@@ -8,7 +8,7 @@ public class Main {
         a.add(8);
         a.add(1);
         a.add(2);
-        a.search(2);
+        a.print();
 
     }
 }
